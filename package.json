@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-plugin-modal-routing-3",
-  "version": "3.0.0",
+  "name": "gatsby-plugin-modal-routing-4",
+  "version": "4.0.0",
   "description": "Gatsby plugin to enable routing of modal pages",
   "main": "index.js",
   "scripts": {
@@ -16,10 +16,10 @@
   ],
   "author": "Lenny Sirivong <lenny@lenny-s.com> (https://lenny-s.com)",
   "license": "MIT",
-  "homepage": "https://github.com/lsirivong/gatsby-plugin-modal-routing",
-  "bugs": "https://github.com/lsirivong/gatsby-plugin-modal-routing/issues",
+  "homepage": "https://github.com/alexander-digett/gatsby-plugin-modal-routing-4",
+  "bugs": "https://github.com/alexander-digett/gatsby-plugin-modal-routing-4/issues",
   "repository": {
-    "url": "https://github.com/lsirivong/gatsby-plugin-modal-routing",
+    "url": "https://github.com/alexander-digett/gatsby-plugin-modal-routing-4",
     "type": "git"
   },
   "files": [
